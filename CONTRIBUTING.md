@@ -1,6 +1,6 @@
-# Contributing to GEOSgcm_GridComp
+# Contributing to fv3-container-test
 
-Contributing code to GEOSgcm_GridComp should be done via a Pull Request to this repository.
+Contributing code to fv3-container-test should be done via a Pull Request to this repository.
 
 ## Contributor License Agreement (CLA)
 

@@ -1,4 +1,15 @@
 *~
+/@cmake/
+/cmake/
+/cmake@/
+/@env/
+/env/
+/env@/
+/.mepo/
+parallel_build.o*
+log.*
+CMakeUserPresets.json
+
 *.swp
 *.swo
 .DS_Store
